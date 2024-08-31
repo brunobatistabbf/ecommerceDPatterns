@@ -3,4 +3,4 @@
 ## Sistema de ecommerce com personalização 
 
 ### Diagrama 
-
+<img src="Diagrama.png">
